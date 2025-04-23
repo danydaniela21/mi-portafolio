@@ -18,7 +18,7 @@
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
-:root { 
+:root {
   --background-color: #fcf9fa; /* Background color for the entire website, including individual sections */
   --default-color: #272829; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #1c1c1d; /* Color for headings, subheadings and title throughout the website */
@@ -290,7 +290,7 @@ h6 {
 
 .footer .container {
   max-width: 1140px;
-  margin: 0 280px;
+  margin: 0 auto;
   padding: 0 15px;
   text-align: center;
 }
@@ -1469,9 +1469,6 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
 
 
 
